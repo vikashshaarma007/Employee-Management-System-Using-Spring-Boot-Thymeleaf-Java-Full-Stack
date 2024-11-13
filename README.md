@@ -1,6 +1,6 @@
 <h1 align="center">Employee Management System 🧮🚀</h1>
 <p align="center"><i>A Spring MVC web application for Employee Management System with the following CRUD operations in single platform</i></p>
-br>
+<br>
 
 <p align="center"><i>CRUD Operations</i> 👨🏽‍💻 
   <br>
