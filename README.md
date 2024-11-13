@@ -6,6 +6,7 @@
   <br>
 
 * A Spring MVC web application for Employee Management System with the following CRUD operations:
+     <br>
   •	Get all the Employee
     <br>
   •	Add a new Employee
@@ -13,7 +14,7 @@
   •	Update an Employee
     <br>
   •	Delete an Employee
-    <br>
+    
 
   <!-- TABLE OF CONTENTS -->
   <details>
